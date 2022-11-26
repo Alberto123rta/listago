@@ -1,36 +1,4 @@
 #EXTM3U
-#EXTINF:-1  tvg-logo="https://tse2.mm.bing.net/th?id=OIP.3aFMdpqVHbI-YtxLvwxU8gHaLH&pid=Api&P=0", monsters inc 1 
-https://cdn.jwplayer.com/manifests/N5DJuzVx.m3u8
+#EXTINF:-1 tvg-name="monsters inc 1 " tvg-logo="https://tse2.mm.bing.net/th?id=OIP.3aFMdpqVHbI-YtxLvwxU8gHaLH&pid=Api&P=0" group-title="Estrenos",monsters inc 1  
 
-#EXTINF:-1,PR | monsters university 2
-https://cdn.jwplayer.com/manifests/HmeLdrGB.m3u8
-
-#EXTINF:-1,PR | un lugar en silencio 1 2018
-https://cdn.jwplayer.com/manifests/qinEzV9O.m3u8
-
-#EXTINF:-1,PR tvg-logo="https://tse2.mm.bing.net/th?id=OIP.3aFMdpqVHbI-YtxLvwxU8gHaLH&pid=Api&P=0"| un lugar en silencio 2 20201
-https://cdn.jwplayer.com/manifests/ZVN06F6E.m3u8
-
-#EXTINF:-1,PR | la guerra del mañana 2021
-https://cdn.jwplayer.com/manifests/HHarNYy4.m3u8
-
-#EXTINF:-1,PR | tom y jerry pelicula 2021
-https://cdn.jwplayer.com/manifests/auJwqMGE.m3u8
-
-#EXTINF:-1,PR | black widow 2021
-https://cdn.jwplayer.com/manifests/FeObrBLK.m3u8
-
-#EXTINF:-1,PR | space jam 1 el juego del siglo 1996
-https://cdn.jwplayer.com/manifests/uSAwInky.m3u8
-
-#EXTINF:-1,PR | space jam una nueva era 2 2021
-https://cdn.jwplayer.com/manifests/7hCnpnv7.m3u8
-
-#EXTINF:-1,PR | la purga por siempre 3 2021
-https://cdn.jwplayer.com/manifests/rNJB2yLJ.m3u8
-
-#EXTINF:-1,PR | jungle cruise 2021
-https://cdn.jwplayer.com/manifests/2uBMPlci.m3u8
-
-#EXTINF:-1,PR | escuadron suicidad 2 2021
-https://cdn.jwplayer.com/manifests/L3x2WeI0.m3u8
+https://cdn.jwplayer.com/manifests/N5DJuzVx.m3u8?mime=true
